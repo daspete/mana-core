@@ -30,6 +30,7 @@ module.exports = {
         middleware: []
     },
 
+    buildDir: '_admin',
     build: {
         extractCSS: true,
 

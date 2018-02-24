@@ -30,6 +30,7 @@ module.exports = {
         middleware: []
     },
 
+    buildDir: '_frontend',
     build: {
         extractCSS: true,
 
@@ -44,6 +45,6 @@ module.exports = {
 
     plugins: [],
 
-    
+
 };
 
