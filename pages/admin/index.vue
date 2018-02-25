@@ -1,5 +1,13 @@
 <template>
-    <div>
-        <h1>Bla</h1>
-    </div>
+    <v-app>
+        <admin></admin>
+    </v-app>
+    
 </template>
+
+<script>
+
+export default {
+    
+}
+</script>
